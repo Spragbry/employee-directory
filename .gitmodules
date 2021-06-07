@@ -1,0 +1,3 @@
+[submodule "react-employee-directory"]
+	path = react-employee-directory
+	url = https://github.com/yarocruz/react-employee-directory
